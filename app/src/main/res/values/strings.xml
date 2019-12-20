@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Password Vault</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Return">Return to Password</string>
+    <string name="json">TotallyNotPasswords.JSON</string>
+    <!--Home-->
+    <string name="homeTitle">Vault Home</string>
+    <string name="copyright">Copyright @ Benjamin Griggs, Ethan Campana, Soumit Lahiri</string>
+    <string name="NewPassword">Store Password</string>
+    <string name="EditPassword">Edit Password</string>
+    <string name="generatePassword">Generate New Password</string>
+    <string name="passwords">Passwords</string>
+
+    <!--New-->
+    <string name="name">Name</string>
+    <string name="url">URL</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="colorProfile">Color Profile</string>
+    <string name="generate">Generate</string>
+    <string name="copy">Copy</string>
+    <string name="colorHex">Color Hex</string>
+    <string name="launch">Launch</string>
+    <string name="save">Save</string>
+
+    <string name="selectedColor">O</string>
+
+    <!--Generate-->
+    <string name="length">Length</string>
+    <string name="capital">Capitals</string>
+    <string name="numbers">Numbers</string>
+    <string name="symbols">Symbols</string>
+    <string name="addPassword">+ Password</string>
+
+    <!--Passwords-->
+    <string name="searchPasswords">Future Feature!</string>
+
+
+    <!--ColorProfile Row 1-->
+    <string name="grey">#989898</string>
+    <string name="darkGrey">#585858</string>
+    <string name="black">#000000</string>
+    <string name="darkRed">#88001B</string>
+    <string name="red">#ec1c24</string>
+    <!--Row 2-->
+    <string name="darkOrange">#ff7f27</string>
+    <string name="orange">#ffca18</string>
+    <string name="gold">#c28e0e</string>
+    <string name="green">#0ed145</string>
+    <string name="darkGreen">#026f22</string>
+    <!--Row 3-->
+    <string name="blue">#00a8f3</string>
+    <string name="darkBlue">#3f48cc</string>
+    <string name="purple">#b83dba</string>
+    <string name="darkPurple">#7b157d</string>
+    <string name="brown">#654321</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
